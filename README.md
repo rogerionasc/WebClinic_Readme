@@ -1,26 +1,26 @@
 <div align="center">
     <p>
-        <img src="https://raw.githubusercontent.com/rogerionasc/Prototipo_Base/master/storage/app/public/logo-sistema/LogoWebClini-Git.svg" width="1020" />
+        <img src="logo-sistema/LogoWebClini-Git.svg" width="1020" />
     </p>
 </div>
 
 
 <div align="center">
     <p>
-        <a href="https://github.com/rogerionasc/Prototipo_Base">
-            <img src="https://img.shields.io/github/repo-size/rogerionasc/Prototipo_Base?style=flat-square" alt="Repo Size" />
+        <a href="https://github.com/rogerionasc/WebClinic_Readme">
+            <img src="https://img.shields.io/github/repo-size/rogerionasc/WebClinic_Readme?style=flat-square" alt="Repo Size" />
         </a>
-        <a href="https://github.com/rogerionasc/Prototipo_Base/issues">
-            <img src="https://img.shields.io/github/issues/rogerionasc/Prototipo_Base?style=flat-square" alt="Issues" />
+        <a href="https://github.com/rogerionasc/WebClinic_Readme/issues">
+            <img src="https://img.shields.io/github/issues/rogerionasc/WebClinic_Readme?style=flat-square" alt="Issues" />
         </a>
-        <a href="https://github.com/rogerionasc/Prototipo_Base/graphs/contributors">
-            <img src="https://img.shields.io/github/contributors/rogerionasc/Prototipo_Base?style=flat-square" alt="Contributors" />
+        <a href="https://github.com/rogerionasc/WebClinic_Readme/graphs/contributors">
+            <img src="https://img.shields.io/github/contributors/rogerionasc/WebClinic_Readme?style=flat-square" alt="Contributors" />
         </a>
-        <a href="https://github.com/rogerionasc/Prototipo_Base/commits/master">
-            <img src="https://img.shields.io/github/commit-activity/t/rogerionasc/Prototipo_Base?style=flat-square" alt="Commits" />
+        <a href="https://github.com/rogerionasc/WebClinic_Readme/commits/main">
+            <img src="https://img.shields.io/github/commit-activity/t/rogerionasc/WebClinic_Readme?style=flat-square" alt="Commits" />
         </a>
-        <a href="https://github.com/rogerionasc/Prototipo_Base/commits/master">
-            <img src="https://img.shields.io/github/last-commit/rogerionasc/Prototipo_Base?style=flat-square" alt="Last Commit" />
+        <a href="https://github.com/rogerionasc/WebClinic_Readme/commits/main">
+            <img src="https://img.shields.io/github/last-commit/rogerionasc/WebClinic_Readme?style=flat-square" alt="Last Commit" />
         </a>
     </p>
 </div>
