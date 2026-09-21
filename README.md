@@ -44,6 +44,9 @@ O WebClinic é mais do que um sistema de gestão; é um aliado na busca pela exc
 
 # Instalação
 
+> [!IMPORTANT]
+> O repositório principal deste projeto (`Prototipo_Base`) é privado. Para obter acesso, solicitar uma demonstração ou obter mais informações, por favor, entre em contato com o proprietário através do GitHub ou outro canal oficial.
+
 Clonar projeto em uma pasta local:
 ```sh
 git clone https://github.com/rogerionasc/Prototipo_Base.git WebClinic
