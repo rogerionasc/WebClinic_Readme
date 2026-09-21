@@ -49,7 +49,7 @@ O WebClinic é mais do que um sistema de gestão; é um aliado na busca pela exc
 
 Clonar projeto em uma pasta local:
 ```sh
-git clone https://github.com/rogerionasc/Prototipo_Base.git WebClinic
+git clone https://github.com/rogerionasc/WebClinic.git WebClinic
 ```
 
 Entrar no diretório:
